@@ -1,6 +1,5 @@
 # 💫 About Me:
- 👨‍💻 About Me<br><br>- 🔭 I’m currently working on **Android (Kotlin & Jetpack Compose) and Python automation**<br>- 🌱 I’m currently learning **Cybersecurity, Linux system administration, and AI tools**<br>- 💡 Interested in **Mobile application development, networking, and cloud services**<br>- 💬 Ask me about **Kotlin, Python, and network security**<br>- 📫 How to reach me: **https://www.linkedin.com/in/barisisgoren/**<br>- 
- 
+ 👨‍💻 About Me<br><br>- 🔭 I’m currently working on **Android (Kotlin & Jetpack Compose) and Python automation**<br>- 🌱 I’m currently learning **Cybersecurity, Linux system administration, and AI tools**<br>- 💡 Interested in **Mobile application development, networking, and cloud services**<br>- 💬 Ask me about **Kotlin, Python, and network security**<br>- 📫 How to reach me: **https://www.linkedin.com/in/barisisgoren/**<br>
 
 
 ## 🌐 Socials:
